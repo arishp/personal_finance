@@ -11,6 +11,146 @@
         "cipla.ns": {
             "no. of shares": 1,
             "invested price": 933.59
+        },
+        "drreddy.ns": {
+            "no. of shares": 22,
+            "invested price": 1286.89
+        },
+        "exideind.ns": {
+            "no. of shares": 7,
+            "invested price": 448.11
+        },
+        "federalbnk.ns": {
+            "no. of shares": 9,
+            "invested price": 136.98
+        },
+        "godrejcp.ns": {
+            "no. of shares": 1,
+            "invested price": 1127.31
+        },
+        "goldbees.ns": {
+            "no. of shares": 372,
+            "invested price": 58.59
+        },
+        "hdfcbank.ns": {
+            "no. of shares": 1,
+            "invested price": 1541.97
+        },
+        "icicigi.ns": {
+            "no. of shares": 1,
+            "invested price": 1356.45
+        },
+        "idfcfirstb.ns": {
+            "no. of shares": 201,
+            "invested price": 74.57
+        },
+        "indhotel.ns": {
+            "no. of shares": 3,
+            "invested price": 586.45
+        },
+        "indusindbk.ns": {
+            "no. of shares": 14,
+            "invested price": 1080.61
+        },
+        "infy.ns": {
+            "no. of shares": 4,
+            "invested price": 1352.99
+        },
+        "itc.ns": {
+            "no. of shares": 46,
+            "invested price": 448.96
+        },
+        "jyothylab.ns": {
+            "no. of shares": 1,
+            "invested price": 234.06
+        },
+        "kesoramind.ns": {
+            "no. of shares": 8,
+            "invested price": 205.09
+        },
+        "kscl.ns": {
+            "no. of shares": 1,
+            "invested price": 627.82
+        },
+        "ktkbank.ns": {
+            "no. of shares": 17,
+            "invested price": 211.23
+        },
+        "ltim.ns": {
+            "no. of shares": 1,
+            "invested price": 5350.17
+        },
+        "manappuram.ns": {
+            "no. of shares": 21,
+            "invested price": 162.19
+        },
+        "mhril.ns": {
+            "no. of shares": 5,
+            "invested price": 299.32
+        },
+        "muthootfin.ns": {
+            "no. of shares": 3,
+            "invested price": 1502.27
+        },
+        "natcopharm.ns": {
+            "no. of shares": 3,
+            "invested price": 827.65
+        },
+        "petronet.ns": {
+            "no. of shares": 6,
+            "invested price": 226.19
+        },
+        "pginvit-iv.ns": {
+            "no. of shares": 36,
+            "invested price": 101.41
+        },
+        "southbank.ns": {
+            "no. of shares": 50,
+            "invested price": 24.78
+        },
+        "spandana.ns": {
+            "no. of shares": 25,
+            "invested price": 450.68
+        },
+        "stovekraft.ns": {
+            "no. of shares": 6,
+            "invested price": 432.59
+        },
+        "tatachem.ns": {
+            "no. of shares": 3,
+            "invested price": 972.25
+        },
+        "tatamotors.ns": {
+            "no. of shares": 18,
+            "invested price": 973.0
+        },
+        "tatasteel.ns": {
+            "no. of shares": 90,
+            "invested price": 140.57
+        },
+        "techm.ns": {
+            "no. of shares": 1,
+            "invested price": 1006.21
+        },
+        "titan.ns": {
+            "no. of shares": 2,
+            "invested price": 3323.59
+        },
+        "tmb.ns": {
+            "no. of shares": 20,
+            "invested price": 479.97
+        },
+        "ttkprestig.ns": {
+            "no. of shares": 3,
+            "invested price": 693.08
+        },
+        "wipro.ns": {
+            "no. of shares": 15,
+            "invested price": 209.86
+        },
+        "zyduslife.ns": {
+            "no. of shares": 3,
+            "invested price": 955.17
         }
     }
 }
