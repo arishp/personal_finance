@@ -3,192 +3,230 @@
         "are&m.ns": {
             "no. of shares": 3,
             "invested price": 627.62,
-            "current price": 1219.35
+            "current price": 1219.35,
+            "previous close": 1206.5
         },
         "bajajhfl.ns": {
             "no. of shares": 214,
             "invested price": 70.0,
-            "current price": 126.88
+            "current price": 126.88,
+            "previous close": 125.67
         },
         "cipla.ns": {
             "no. of shares": 1,
             "invested price": 933.59,
-            "current price": 1506.6
+            "current price": 1506.6,
+            "previous close": 1490.55
         },
         "drreddy.ns": {
             "no. of shares": 22,
             "invested price": 1286.89,
-            "current price": 1389.45
+            "current price": 1389.45,
+            "previous close": 1355.15
         },
         "exideind.ns": {
             "no. of shares": 7,
             "invested price": 448.11,
-            "current price": 418.4
+            "current price": 418.4,
+            "previous close": 418.3
         },
         "federalbnk.ns": {
             "no. of shares": 9,
             "invested price": 136.98,
-            "current price": 196.73
+            "current price": 196.73,
+            "previous close": 197.68
         },
         "godrejcp.ns": {
             "no. of shares": 1,
             "invested price": 1127.31,
-            "current price": 1067.8
+            "current price": 1067.8,
+            "previous close": 1071.2
         },
         "goldbees.ns": {
             "no. of shares": 372,
             "invested price": 58.59,
-            "current price": 64.0
+            "current price": 64.0,
+            "previous close": 64.0
         },
         "hdfcbank.ns": {
             "no. of shares": 1,
             "invested price": 1541.97,
-            "current price": 1798.25
+            "current price": 1798.25,
+            "previous close": 1790.75
         },
         "icicigi.ns": {
             "no. of shares": 1,
             "invested price": 1356.45,
-            "current price": 1832.45
+            "current price": 1832.45,
+            "previous close": 1861.15
         },
         "idfcfirstb.ns": {
             "no. of shares": 201,
             "invested price": 74.57,
-            "current price": 62.52
+            "current price": 62.52,
+            "previous close": 61.75
         },
         "indhotel.ns": {
             "no. of shares": 3,
             "invested price": 586.45,
-            "current price": 860.6
+            "current price": 860.6,
+            "previous close": 868.3
         },
         "indusindbk.ns": {
             "no. of shares": 14,
             "invested price": 1080.61,
-            "current price": 953.4
+            "current price": 953.4,
+            "previous close": 931.95
         },
         "infy.ns": {
             "no. of shares": 4,
             "invested price": 1352.99,
-            "current price": 1916.75
+            "current price": 1916.75,
+            "previous close": 1907.4
         },
         "itc.ns": {
             "no. of shares": 47,
             "invested price": 449.55,
-            "current price": 478.6
+            "current price": 478.6,
+            "previous close": 476.95
         },
         "jyothylab.ns": {
             "no. of shares": 1,
             "invested price": 234.06,
-            "current price": 389.8
+            "current price": 389.8,
+            "previous close": 370.5
         },
         "kesoramind.ns": {
             "no. of shares": 8,
             "invested price": 205.09,
-            "current price": 220.16
+            "current price": 220.16,
+            "previous close": 220.93
         },
         "kscl.ns": {
             "no. of shares": 1,
             "invested price": 627.82,
-            "current price": 870.7
+            "current price": 870.7,
+            "previous close": 856.5
         },
         "ktkbank.ns": {
             "no. of shares": 17,
             "invested price": 211.23,
-            "current price": 214.53
+            "current price": 214.53,
+            "previous close": 210.74
         },
         "ltim.ns": {
             "no. of shares": 1,
             "invested price": 5350.17,
-            "current price": 5678.0
+            "current price": 5678.0,
+            "previous close": 5752.35
         },
         "manappuram.ns": {
             "no. of shares": 21,
             "invested price": 162.19,
-            "current price": 183.62
+            "current price": 183.62,
+            "previous close": 184.29
         },
         "mhril.ns": {
             "no. of shares": 5,
             "invested price": 299.32,
-            "current price": 356.5
+            "current price": 356.5,
+            "previous close": 357.5
         },
         "muthootfin.ns": {
             "no. of shares": 3,
             "invested price": 1502.27,
-            "current price": 2069.6
+            "current price": 2069.6,
+            "previous close": 2062.5
         },
         "natcopharm.ns": {
             "no. of shares": 3,
             "invested price": 827.65,
-            "current price": 1392.0
+            "current price": 1392.0,
+            "previous close": 1362.3
         },
         "petronet.ns": {
             "no. of shares": 6,
             "invested price": 226.19,
-            "current price": 340.65
+            "current price": 340.65,
+            "previous close": 344.75
         },
         "pginvit-iv.ns": {
             "no. of shares": 36,
             "invested price": 101.41,
-            "current price": 85.21
+            "current price": 85.21,
+            "previous close": 85.21
         },
         "southbank.ns": {
             "no. of shares": 50,
             "invested price": 24.78,
-            "current price": 24.97
+            "current price": 24.97,
+            "previous close": 24.93
         },
         "spandana.ns": {
             "no. of shares": 25,
             "invested price": 450.68,
-            "current price": 324.9
+            "current price": 324.9,
+            "previous close": 309.3
         },
         "stovekraft.ns": {
             "no. of shares": 6,
             "invested price": 432.59,
-            "current price": 849.1
+            "current price": 849.1,
+            "previous close": 835.7
         },
         "tatachem.ns": {
             "no. of shares": 3,
             "invested price": 972.25,
-            "current price": 1046.35
+            "current price": 1046.35,
+            "previous close": 1057.65
         },
         "tatamotors.ns": {
             "no. of shares": 18,
             "invested price": 973.0,
-            "current price": 750.5
+            "current price": 750.5,
+            "previous close": 740.8
         },
         "tatasteel.ns": {
             "no. of shares": 90,
             "invested price": 140.57,
-            "current price": 138.91
+            "current price": 138.91,
+            "previous close": 140.36
         },
         "techm.ns": {
             "no. of shares": 1,
             "invested price": 1006.21,
-            "current price": 1711.65
+            "current price": 1711.65,
+            "previous close": 1698.7
         },
         "titan.ns": {
             "no. of shares": 2,
             "invested price": 3323.59,
-            "current price": 3309.2
+            "current price": 3309.2,
+            "previous close": 3323.05
         },
         "tmb.ns": {
             "no. of shares": 20,
             "invested price": 479.97,
-            "current price": 458.9
+            "current price": 458.9,
+            "previous close": 458.85
         },
         "ttkprestig.ns": {
             "no. of shares": 3,
             "invested price": 693.08,
-            "current price": 809.75
+            "current price": 809.75,
+            "previous close": 807.45
         },
         "wipro.ns": {
             "no. of shares": 15,
             "invested price": 209.86,
-            "current price": 309.1
+            "current price": 309.1,
+            "previous close": 305.05
         },
         "zyduslife.ns": {
             "no. of shares": 3,
             "invested price": 955.17,
-            "current price": 972.4
+            "current price": 972.4,
+            "previous close": 957.65
         }
     }
 }
