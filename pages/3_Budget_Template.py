@@ -2,4 +2,4 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-st.title('Personal Finance - Jewels')
+st.title('Personal Finance - Budget Template')
